@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Esau/AndroidStudioProjects/Nuwe/app/src/main/res/drawable/ic_add.xml" value="0.3435" />
+        <entry key="..\:/Users/Esau/AndroidStudioProjects/Nuwe/app/src/main/res/drawable/states_background_primary_button.xml" value="0.3435" />
+        <entry key="..\:/Users/Esau/AndroidStudioProjects/Nuwe/app/src/main/res/drawable/states_text_color_primary_button.xml" value="0.3435" />
+        <entry key="..\:/Users/Esau/AndroidStudioProjects/Nuwe/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Esau/AndroidStudioProjects/Nuwe/app/src/main/res/layout/nuwe_button.xml" value="0.1" />
+        <entry key="..\:/Users/Esau/AndroidStudioProjects/Nuwe/app/src/main/res/layout/nuwe_button_flat.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Esau/AndroidStudioProjects/Nuwe/app/src/main/res/layout/nuwe_button_primary.xml" value="0.25" />
+        <entry key="..\:/Users/Esau/AndroidStudioProjects/Nuwe/app/src/main/res/layout/nuwe_button_secondary.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="nuwe_button">
+        <attr name="button_icon" format="reference"/>
+        <attr name="button_text" format="reference"/>
+        <attr name="is_loading" format="boolean"/>
+        <attr name="button_enabled" format="boolean"/>
+    </declare-styleable>
+</resources>
